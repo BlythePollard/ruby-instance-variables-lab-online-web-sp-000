@@ -8,4 +8,4 @@ class Dog
   end 
 end  
 
-#both methods= mechanisms to expose data 
+#both methods= mechanisms to expose data from inside object to outside world--setting and getting a dog's name
