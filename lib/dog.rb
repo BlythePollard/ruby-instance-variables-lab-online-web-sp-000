@@ -4,7 +4,7 @@ class Dog
     
   end
   
-  def name #another instance method
+  def name 
     this_dogs_name 
   end 
 end  
