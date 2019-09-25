@@ -7,3 +7,5 @@ class Dog
     this_dogs_name #responsible for reporting/reading name
   end 
 end  
+
+#both methods= mechanisms to expose data 
